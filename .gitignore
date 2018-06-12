@@ -1,0 +1,7 @@
+*.v.d
+*.v.tex
+.*.aux
+*.aux
+*.vo
+*.glob
+
